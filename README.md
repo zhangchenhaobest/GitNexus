@@ -1,5 +1,31 @@
 # GitNexus
 
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+GitNexus: The Zero-Server Code Intelligence Engine
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+零服务器的代码智能引擎 GitNexus。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
+# GitNexus
+
 <div align="center">
 
   <a href="https://trendshift.io/repositories/19809" target="_blank">
